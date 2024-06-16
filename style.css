@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+body{
+  margin: 0;
+  font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+}
+
+h1 {
+  color: blue;
+}
+
+h2 {
+  color: green;
+}
